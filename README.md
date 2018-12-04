@@ -1,2 +1,2 @@
 # Multiple_Classification_Project
-AKI_stage_변화_분류_예측-MIMIC_III_Data_Base
+AKI_stage_change_classification_forecast-MIMIC_III_Data_Base
